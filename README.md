@@ -33,7 +33,7 @@ Esta es una solución de el [QR code component challenge on Frontend Mentor](htt
 - CSS custom properties
 - Flexbox
 - Desktop-first
-
+_________________________________
 - Marcado semántico HTML5
 - Propiedades personalizadas de CSS
 - Flexbox
