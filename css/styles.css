@@ -1,0 +1,80 @@
+body {
+  display: flex;
+  box-sizing: border-box;
+  justify-content: center;
+
+  margin: 15vb;
+  background-color: hsl(212, 45%, 89%);
+}
+
+img {
+  border-radius: 1.8vb;
+  margin: 2.5vb;
+  width: 90%;
+}
+
+h1,
+h2 {
+  margin-left: 4vb;
+  margin-right: 4vb;
+}
+
+h1 {
+  color: hsl(218, 44%, 22%);
+  font-weight: 700;
+  margin-bottom: 0.5vb;
+}
+
+h2 {
+  color: hsl(220, 15%, 55%);
+  font-weight: 400;
+  margin-bottom: 1.3vb;
+}
+
+.attribution {
+  display: flex;
+  box-sizing: border-box;
+  flex-direction: column;
+  align-items: center;
+
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 3vb;
+  font-size: 11px;
+  text-align: center;
+  font-family: "Be Vietnam Pro", sans-serif;
+  font-family: "Outfit", sans-serif;
+
+  width: 47vb;
+  height: 75vh;
+}
+
+.credits {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 0.2vh;
+  color: hsl(228, 45%, 44%);
+}
+
+.credits a,
+p {
+  margin: 0.3vh;
+}
+
+@media (max-width: 800px) {
+  h1,
+  h2 {
+    margin-top: 1vb;
+    margin-left: 2vb;
+    margin-right: 2vb;
+  }
+
+  .attribution {
+    font-size: 7.8px;
+  }
+
+  .credits {
+    flex-direction: column;
+    margin: 1.5vh;
+  }
+}
