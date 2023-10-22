@@ -2,7 +2,7 @@
 
 This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H), Below we will share some details about the coding process.
 
-Esta es una solución de el [QR code component challenge on Frontend Mentor] (https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H), a continuacion compartire algunos detalles sobre el proceso de codificacion.
+Esta es una solución de el [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H), a continuacion compartire algunos detalles sobre el proceso de codificacion.
 
 ## Table of contents
 
