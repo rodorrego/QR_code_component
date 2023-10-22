@@ -13,7 +13,7 @@ Esta es una solución de el [QR code component challenge on Frontend Mentor](htt
   - [Built with - Realizado con](#built-with)
 - [Author](#author)
 
-## Overview - Descripción general
+## Overview
 
 ### Screenshot
 
@@ -25,21 +25,16 @@ Esta es una solución de el [QR code component challenge on Frontend Mentor](htt
 
 - Live Site URL: [Click!](rodorrego.github.io)
 
-## My process - Mi proceso
+## My process
 
-### Built with - Realizado con
+### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
 - Desktop-first
-_________________________________
-- Marcado semántico HTML5
-- Propiedades personalizadas de CSS
-- Flexbox
-- Desktop-first
 
-## Author - Autor
+## Author
 
 - Linkedin - [Romina Dorrego](https://www.linkedin.com/in/rominadorrego/)
 - Frontend Mentor - [@rodorrego](https://www.frontendmentor.io/profile/rodorrego)
