@@ -6,11 +6,11 @@ Esta es una solución de el [QR code component challenge on Frontend Mentor](htt
 
 ## Table of contents - Tabla de contenidos
 
-- [Overview - Descripción general](#overview)
+- [Overview](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process - Mi proceso](#my-process)
-  - [Built with - Realizado con](#built-with)
+- [My process](#my-process)
+  - [Built with](#built-with)
 - [Author](#author)
 
 ## Overview
