@@ -9,8 +9,8 @@ Esta es una solución de el [QR code component challenge on Frontend Mentor](htt
 - [Overview - Descripción general](#overview)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [My process - Mi proceso](#my-process)
+  - [Built with - Realizado con](#built-with)
 - [Author](#author)
 
 ## Overview - Descripción general
